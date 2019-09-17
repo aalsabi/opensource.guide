@@ -5,20 +5,20 @@ en:
     contribute: اشترك
   index:
     lead: يتم إعداد البرامج مفتوحة المصدر بواسطة أشخاص مثلك تمامًا. تعرف على كيفية إطلاق مشروعك وتنميته.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    opensourcefriday: إنه يوم الجمعة! استثمر ساعات وساهم في برنامج تحبه
   article:
     table_of_contents: جدول المحتويات
     back_to_all_guides: العودة إلى جميع الأدلة
     related_guides: أدلة ذات صلة
   footer:
     contribute:
-      heading: شارك
+      heading: ساهم
       description: هل لديك أي مقترحات؟ هذا المحتوى مفتوح المصدر. ساعدنا بتطويره.
-      button: شارك
+      button: ساهم
     subscribe:
       heading: إبق على تواصل
-      description:كن أول من يحصل على أحدث النصائح والموارد حول  المصادر المفتوحة من GitHub 
-      label: البريد الإليكتروني
+      description: كن أول من يحصل على أحدث النصائح والموارد حول  المصادر المفتوحة من GitHub 
+      label: البريد الإلكتروني
       button: اشترك
     byline:
       # [code], [love], and [github] will be replaced by octicons
